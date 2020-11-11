@@ -68,7 +68,7 @@ publishing {
                 // 区别于artifactId，可以理解为artifactName
                 name = 'agile4j-kts-loader'
                 // 构件描述
-                description = '校验器'
+                description = 'kts-loader'
                 // 构件主页
                 url = 'https://github.com/agile4j/agile4j-kts-loader'
                 // 许可证名称和地址
